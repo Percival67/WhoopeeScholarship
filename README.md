@@ -1,6 +1,5 @@
 # WhoopeeScholarship
-Game
-## 7378-Team-F-2020
+
 ![Image of instruction](https://i.imgur.com/NbiDdPx.jpg)
 ======
 Percival Gallardo Castro and Arisa Ohashi decided to make a Tycoon game. We cooked up a school management game where you must manage the students and the school itself. Hire teachers that suit the different classes your school offers. Try not to go bankrupt or have boring teachers, it might drop the student’s “fun” meter and kill them of boredom. 
